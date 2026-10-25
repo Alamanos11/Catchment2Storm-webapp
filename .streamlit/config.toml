@@ -1,0 +1,6 @@
+   [server]
+   # same as running: streamlit run ... --server.fileWatcherType none
+   fileWatcherType = "none"
+
+   [browser]
+   gatherUsageStats = false

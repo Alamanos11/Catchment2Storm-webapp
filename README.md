@@ -4,7 +4,7 @@
 
 Catchment2Storm is a free web-app. You give it a catchment shapefile, or simply the coordinates of a site, and it returns a design storm hyetograph ready for hydrologic/hydraulic models (e.g. HEC-HMS, HEC-RAS). The official Greek IDF parameter grid is bundled with the app, so users do not need to download anything.
 
-**Live app:** https://catchment2storm.streamlit.app  *(update this link after deployment)*
+**Live app:** https://catchment2storm.streamlit.app/ 
 
 ---
 
